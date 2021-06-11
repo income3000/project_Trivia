@@ -1,0 +1,4 @@
+Trivia is one of our nations most prized pastimes, it's a battle of wit, memory and knowledge. But mostly its a test of the ability to retain useless facts lol. With that said, I give to you my first project... an API based trivia game that I hope you find delightful. 
+The rules to the game are simple, each right answer is a point, get to ten and win. Theres one catch each wrong answer will cost you a point. And if you get to -3 you lose.
+The questions are boolean (true and false) and there's reset button, a skip button and an end game button, along with the true false buttons of course.
+The graphics won't wow you but the functionality is fluid and the content is diverse, I hope you enjoy.
