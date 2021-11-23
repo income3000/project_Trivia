@@ -93,11 +93,11 @@ let index = 0;
             }
         
         score.innerHTML = scoreNum
-            if (scoreNum == 5){
+            if (scoreNum == 15){
                 answer.innerHTML = 'YOU WON'
                 endGameWIN()
                 }
-            if(scoreNum == -3){
+            if(scoreNum == -5){
                 endGameLOSE()
             }
             nextFunk()
@@ -116,10 +116,10 @@ let index = 0;
                 }
         
         score.innerHTML = scoreNum
-            if (scoreNum == 5){
+            if (scoreNum == 15){
             endGameWIN()
             }
-            if(scoreNum == -3){
+            if(scoreNum == -5){
                 endGameLOSE()
             }
             nextFunk()
