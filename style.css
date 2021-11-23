@@ -18,13 +18,19 @@ body {
       font-size: 50px;
       text-align: center;
       height: fit-content;
+      width: 100%;
   }
   #question {
     font-size: 35px;
+    width: fit-content;
     height: fit-content;
-    text-align: center; 
+    text-align: center;
+     
     
       
+  }
+  #answer {
+      font-size: 40px;
   }
   h1 {
       text-align: center;
